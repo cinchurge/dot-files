@@ -1,5 +1,5 @@
 " color scheme
- colorscheme vilight
+colorscheme morning
 
 " Use Vim defaults (much better!)
 set nocompatible
